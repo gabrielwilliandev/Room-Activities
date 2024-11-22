@@ -1,0 +1,9 @@
+===== Dados dos Pacientes =====
+Id do paciente: 1
+Nome do Paciente: Gabriel
+Idade: 12
+Leito: 506
+Id do paciente: 2
+Nome do Paciente: Lavinia
+Idade: 1
+Leito: 210
